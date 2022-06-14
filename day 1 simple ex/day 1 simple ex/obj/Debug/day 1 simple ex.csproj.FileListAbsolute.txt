@@ -1,0 +1,8 @@
+C:\Users\ivoni\source\repos\day 1 simple ex\day 1 simple ex\bin\Debug\day 1 simple ex.exe.config
+C:\Users\ivoni\source\repos\day 1 simple ex\day 1 simple ex\bin\Debug\day 1 simple ex.exe
+C:\Users\ivoni\source\repos\day 1 simple ex\day 1 simple ex\bin\Debug\day 1 simple ex.pdb
+C:\Users\ivoni\source\repos\day 1 simple ex\day 1 simple ex\obj\Debug\day 1 simple ex.csproj.AssemblyReference.cache
+C:\Users\ivoni\source\repos\day 1 simple ex\day 1 simple ex\obj\Debug\day 1 simple ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivoni\source\repos\day 1 simple ex\day 1 simple ex\obj\Debug\day 1 simple ex.csproj.CoreCompileInputs.cache
+C:\Users\ivoni\source\repos\day 1 simple ex\day 1 simple ex\obj\Debug\day 1 simple ex.exe
+C:\Users\ivoni\source\repos\day 1 simple ex\day 1 simple ex\obj\Debug\day 1 simple ex.pdb
